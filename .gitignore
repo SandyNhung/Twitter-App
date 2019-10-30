@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+__pycache__/
+npm-debug.log
+venv/
+.vscode/
